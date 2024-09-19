@@ -1,0 +1,14 @@
+c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\bin\Debug\net8.0\fragesport.exe
+c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\bin\Debug\net8.0\fragesport.deps.json
+c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\bin\Debug\net8.0\fragesport.runtimeconfig.json
+c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\bin\Debug\net8.0\fragesport.dll
+c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\bin\Debug\net8.0\fragesport.pdb
+c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\obj\Debug\net8.0\fragesport.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\obj\Debug\net8.0\fragesport.AssemblyInfoInputs.cache
+c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\obj\Debug\net8.0\fragesport.AssemblyInfo.cs
+c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\obj\Debug\net8.0\fragesport.csproj.CoreCompileInputs.cache
+c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\obj\Debug\net8.0\fragesport.dll
+c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\obj\Debug\net8.0\refint\fragesport.dll
+c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\obj\Debug\net8.0\fragesport.pdb
+c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\obj\Debug\net8.0\fragesport.genruntimeconfig.cache
+c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\obj\Debug\net8.0\ref\fragesport.dll
