@@ -12,3 +12,4 @@ c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\obj\Debug\net8.0\r
 c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\obj\Debug\net8.0\fragesport.pdb
 c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\obj\Debug\net8.0\fragesport.genruntimeconfig.cache
 c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\obj\Debug\net8.0\ref\fragesport.dll
+c:\Users\signe.olofsson\Documents\prog1\fragesport\fragesport\obj\Debug\net8.0\fragesport.sourcelink.json

@@ -26,16 +26,69 @@ string secondquestion= Console.ReadLine();
 
 if (secondquestion== "b")
 {
-    Console.WriteLine("rätt"); 
+    Console.WriteLine("Rätt"); 
     pts += 10; 
 }
 else{
-    Console.WriteLine("fel");
+    Console.WriteLine("Fel");
     pts -= 10;  
 }
 
 Console.WriteLine("Hur många i min släkt har dött i cancer");
-Console.WriteLine("a)1  b) ");
+Console.WriteLine("a)4  b)3  c)1");
+string thirdquestion= Console.ReadLine(); 
+
+if (thirdquestion== "a")
+{
+    Console.WriteLine("Rätt");
+    pts += 10; 
+}
+else{
+    Console.WriteLine("Fel");
+    pts -= 10; 
+}
+
+Console.WriteLine("Hur många kusiner har jag");
+Console.WriteLine("a)8  b)6  c)5");
+string fourtquestion= Console.ReadLine();
+
+if(fourtquestion== "c")
+{
+    Console.WriteLine("Rätt");
+    pts += 10; 
+}
+else{
+    Console.WriteLine("Fel");
+    pts -= 10; 
+}
+
+Console.WriteLine("hur många farbröder har jag");
+Console.WriteLine("a)4  b)2  c)1");
+string fiftquestion= Console.ReadLine();
+
+if(fiftquestion== "b")
+{
+      Console.WriteLine("Rätt");
+      pts += 10;
+}
+else{
+    Console.WriteLine("Fel");
+    pts -= 10; 
+}
+
+Console.WriteLine("Hur många lärare fick jag byta från 1-4");
+Console.WriteLine("a)8  b)3  c)1"); 
+string sixthquestion= Console.ReadLine();
+
+if(sixthquestion== "a")
+{
+    Console.WriteLine("Rätt");
+    pts += 250;
+}
+else{
+    Console.WriteLine("Fel");
+    pts -= 50; 
+}
 
 Console.WriteLine($"Grattis du fick {pts} pts");
 // int hp = 100 ; 
